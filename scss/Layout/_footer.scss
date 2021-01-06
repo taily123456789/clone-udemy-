@@ -1,0 +1,48 @@
+.trusted{
+    padding: 20px 0;
+    .trusted__heading{
+        text-align: center;
+    }
+    .trusted__logo{
+        padding: 10px;
+        justify-content: center;
+        & img{
+            padding: 0 20px;
+
+        }
+    }
+    .trusted__booking{
+        justify-content: center;
+        text-align: center;
+    }
+    .booking__content{
+        margin-top: 30px;
+        & h4{
+            font-weight: $fw-bold;
+        }
+    }
+    .boe{
+        border-right:2px solid $color-gray-1;
+    }
+    & p{
+        height: 60px;
+    }
+}
+.footer{
+    padding: 35px 0;
+    .footer__text{
+        & p{
+            margin: 8px 0;
+            color: $color-blue;
+        }
+        .blod{
+            font-weight: $fw-bold;
+        }
+    }
+    .footer__menu{
+        justify-content: end;
+        .footer__menu--buton{
+            left: 165%;
+        }
+    }
+}

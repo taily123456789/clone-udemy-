@@ -1,0 +1,19 @@
+.tab{
+    background-color: #f7f8fa;
+
+    .tab-content{
+        padding: 25px 0;
+        .tab-text{
+            font-size: 20px;
+        }
+    }
+    .tab__card{
+        padding: 2.25rem;
+        height: 200px;
+    }
+    .tab__title{
+        margin-left: 2.5rem;
+        font-size: 1rem;
+        font-weight: bold;
+    }
+}

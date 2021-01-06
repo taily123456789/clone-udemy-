@@ -1,0 +1,19 @@
+@import "./Hepler/variable";
+@import "./Base/reset";
+
+@import "./Hepler/mixin";
+@import "./Hepler/Exten";
+@import "./Hepler/function";
+
+@import "./Layout/header";
+@import "./Layout/cover.scss";
+@import "./Layout/intro.scss";
+@import "./Layout/courses.scss";
+@import "./Layout/footer";
+@import "./Base/normalized.scss";
+@import "./Layout/student.scss";
+@import "./Component/button";
+@import './Layout/started';
+@import './Layout/categories';
+@import './Layout/tabcontent';
+
